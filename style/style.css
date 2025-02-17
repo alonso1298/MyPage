@@ -46,7 +46,7 @@ header {
 }
 
 .presentacion__contenido {
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -75,7 +75,7 @@ header {
 }
 
 .presentacion_enlaces_link {
-    width: 378px;
+    width: 50%;
     background-color: var(--color-primario);
     text-align: center;
     padding: 21.5px 0;
@@ -102,6 +102,10 @@ header {
     background-color: var(--color-hover);
     cursor: pointer;
     transform: scale(1.1);
+}
+
+.presentacion__imagen {
+    width: 50%;
 }
 
 footer {
