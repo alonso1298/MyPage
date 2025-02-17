@@ -6,7 +6,7 @@ Esta es mi página web personal donde puedes encontrar y saber un poco más de m
 
 - Permite a los usuarios conocer más sobre mí a través de mi biografía y proyectos.
 - Proporciona una interfaz interactiva y atractiva.
-- Muestra mis trabajos y proyectos anteriores con descripciones detalladas e imágenes.
+- Muestra mis estudios y certificaciones.
 
 Ejemplo visual del proyecto:
 
