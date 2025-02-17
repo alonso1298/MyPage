@@ -133,5 +133,10 @@ footer {
     }
     .presentacion {
         flex-direction: column-reverse;
+        padding: 5%;
     }
+    .presentacion__contenido {
+        width: auto;
+    }
+
 }
