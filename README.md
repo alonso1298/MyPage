@@ -28,6 +28,6 @@ Puedes descargar o acceder al código fuente del proyecto en el siguiente enlace
     ``` bash
     git clone https://github.com/alonso1298/MyPage.git
     ```
-2. Navega al directorio del proyecto con `cd MyPage`.
+2. Navega al directorio del proyecto con `index.html`.
 3. Abre el proyecto con `live server`
 
